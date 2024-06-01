@@ -43,8 +43,7 @@ public class Autimation_AI08_Part2 extends TestParent {
         ReusableMethods_Loggers.clickMethod(driver, logger, "//*[@href='https://www.capitalone.com/bank/ways-to-bank/']","Link");
 
         ReusableMethods_Loggers.clickMethod(driver, logger, "", "");
-//hello world
-    }
+    }//hello world
 
 
 
