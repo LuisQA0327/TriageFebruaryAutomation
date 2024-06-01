@@ -33,6 +33,7 @@ public class Automation_AI06 {
             ReusableMethods.scrollByView(driver,"//*[@class= 'workshopSchedule-2zUZD']","full schedule chart");
             String fullSchedule = ReusableMethods.captureText(driver,"//*[@class= 'workshopSchedule-2zUZD']","studio schedule");
             System.out.println(fullSchedule);
+            //my name is Luis
         }//end of
         driver.quit();
     }//end of main
